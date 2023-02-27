@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hello! 😄
 
-<!--
-**tkresic/tkresic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here's some information about me:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working as a Software Engineer.
+- 🌱 I’m currently learning various technologies & tools such as Spring, Kotlin & Go.
+- 📫 You can contact me at tonikresic1997@gmail.com
+- ✨ Some of the more interesting repositories are:
+  - [URL shortener with Kotlin](https://github.com/tkresic/url_shortener)
+  - [Desktop cash register application in Flutter](https://github.com/tkresic/app)
+  - [Cryptographic examples in Lumen](https://github.com/tkresic/crypto-examples)
+  - [Chatbot made with IBM Watson](https://github.com/tkresic/chatbot)
+  - [Dots & boxes game with Python](https://github.com/tkresic/dots-and-boxes)
+  - [Trivia quiz with JavaScript](https://github.com/tkresic/trivia-quiz)
